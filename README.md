@@ -1,6 +1,6 @@
 # Iris-flower-classification
 
-using Decition Treeclassifier to predict iris flower classification 
+using Decition Tree classifier to predict iris flower classification 
 
 **#Result**
 
